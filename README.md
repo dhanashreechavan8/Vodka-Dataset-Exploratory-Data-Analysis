@@ -10,4 +10,17 @@
 3. Checked frequency distribution of attributes
 4. Dropped unnecesssary columns
 5. Handled missing values using different Imputation techniques
-6. 
+6. Checked summary statistics of numerical variables
+
+Once the dataset was cleaned, I answered following business questions:
+
+Question 1:
+How are the Vodka Sales changing throughout the years?
+
+Question 2:
+Which counties have the highest vodka sales?
+
+Question 3:
+Which counties have highest profit for the sold Vodka?
+
+Question 4?

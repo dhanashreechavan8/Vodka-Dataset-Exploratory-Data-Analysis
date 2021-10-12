@@ -27,3 +27,4 @@ Question 3:
 Which counties have highest profit for the sold Vodka?
 
 Question 4?
+Which category of Vodka has the highest sales?

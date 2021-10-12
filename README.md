@@ -18,7 +18,7 @@
 Once the dataset was cleaned, I answered following business questions:
 
 Question 1:
-How are the Vodka Sales changing throughout the years?
+What is the trend of Vodka sales throughout the years?
 
 Question 2:
 Which counties have the highest vodka sales?
